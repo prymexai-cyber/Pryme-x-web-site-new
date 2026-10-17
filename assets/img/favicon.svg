@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <style>.d{stroke:#8A94A6}.t{fill:#0A0C16}.b{stroke:#081B2C}.bx{fill:#081B2C}@media (prefers-color-scheme:dark){.d{stroke:#ffffff}.t{fill:#ffffff}.b{stroke:#A9BED3}.bx{fill:#A9BED3}}</style>
+  <g fill="none" stroke-linecap="round">
+    <path d="M60 12 A48 48 0 1 1 21 88" class="b" stroke-width="12"/>
+    <path class="d" d="M15.5 77 A48 48 0 0 1 47 13.8" stroke-width="12"/>
+  </g>
+  <text class="t" x="60" y="75" text-anchor="middle" font-family="Arial Black,Helvetica,Arial,sans-serif" font-weight="900" font-size="40">P<tspan class="bx">X</tspan></text>
+</svg>

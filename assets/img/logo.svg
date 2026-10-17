@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <g fill="none" stroke-linecap="round">
+    <path d="M60 14 A46 46 0 1 1 22.6 86.8" stroke="#081B2C" stroke-width="9"/>
+    <path d="M17.5 77 A46 46 0 0 1 48 15.6" stroke="#8A94A6" stroke-width="9"/>
+    <circle cx="60" cy="60" r="34" stroke="#081B2C" stroke-opacity=".18" stroke-width="1.5" stroke-dasharray="2 4"/>
+  </g>
+  <text x="60" y="73" text-anchor="middle" font-family="Arial Black,Helvetica,Arial,sans-serif" font-weight="900" font-size="36" letter-spacing="-1" fill="#0A0C16">P<tspan fill="#081B2C">X</tspan></text>
+</svg>

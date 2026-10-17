@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 720">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e9ebf0"/><stop offset="1" stop-color="#c9ced8"/></linearGradient>
+  <pattern id="p" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.2" fill="#0A0C16" opacity=".08"/></pattern></defs>
+  <rect width="600" height="720" fill="url(#g)"/><rect width="600" height="720" fill="url(#p)"/>
+  <circle cx="300" cy="285" r="112" fill="#8d94a3"/>
+  <path d="M90 720c10-150 100-235 210-235s200 85 210 235z" fill="#8d94a3"/>
+  <text x="300" y="690" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="18" letter-spacing="6" fill="#5b6272">REPLACE · founder.jpg</text>
+</svg>
