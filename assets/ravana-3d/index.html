@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>King Ravana — 3D</title>
+<script type="importmap">{"imports":{"three":"./ravana3d/three.module.min.js"}}</script>
+<script type="module" src="ravana3d/ravana3d.js"></script>
+<style>
+  html,body{margin:0;height:100%;background:#0d0603;color:#f3dcc0;font-family:"Helvetica Neue",Arial,sans-serif;overflow:hidden}
+  .stage{position:fixed;inset:0}
+  .cap{position:fixed;left:28px;bottom:26px;letter-spacing:.2em;text-transform:uppercase;font-size:11px;opacity:.75}
+  .cap b{display:block;font-size:22px;letter-spacing:.08em;opacity:1;margin-bottom:6px;color:#fff}
+</style>
+</head>
+<body>
+  <div class="stage" data-ravana3d data-fit="contain"></div>
+  <div class="cap"><b>KING RAVANA</b>Move your mouse · 3D painting</div>
+</body>
+</html>
